@@ -1,3 +1,5 @@
 pandas
 ipykernel
 seaborn
+openpyxl
+scikit-learn
